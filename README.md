@@ -1,6 +1,6 @@
 # Simulated an ETL process into a data warehouse using Excel, SSMS, and SSIS.
 
-# 🎯 Project Objectives
+## 🎯 Project Objectives
 - Simulate a real-world ETL workflow using enterprise tools
 - Extract source data from Excel files
 - Transform and clean data using SSIS
