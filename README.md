@@ -16,6 +16,4 @@ The data warehouse uses a **star schema** with:
 - Fact table: `Fact Orders`
 - Dimension tables: `DimLocation`, `DimCustomer`, `DimTime`,'DimProduct'.
 <img width="894" height="507" alt="image" src="https://github.com/user-attachments/assets/85458de5-9593-41f3-92bd-1b409bb28a2a" />
-## Dataset
-The source Excel files used for ETL can be downloaded here:  
-[Download Excel Source Data](https://drive.google.com/your-link)
+
